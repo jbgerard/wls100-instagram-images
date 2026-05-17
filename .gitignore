@@ -1,0 +1,4 @@
+# Backup originals and intermediate sources are not needed on GitHub
+*.original.jpg
+*.original-with-ui.jpg
+.DS_Store
